@@ -1,0 +1,8 @@
+/home/owl/Documents/Projects/OBD2/build-OBD2-Reader-Desktop-Debug/CMakeFiles/OBD2-Reader.dir
+/home/owl/Documents/Projects/OBD2/build-OBD2-Reader-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/owl/Documents/Projects/OBD2/build-OBD2-Reader-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/owl/Documents/Projects/OBD2/build-OBD2-Reader-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/owl/Documents/Projects/OBD2/build-OBD2-Reader-Desktop-Debug/CMakeFiles/install.dir
+/home/owl/Documents/Projects/OBD2/build-OBD2-Reader-Desktop-Debug/CMakeFiles/install/local.dir
+/home/owl/Documents/Projects/OBD2/build-OBD2-Reader-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/owl/Documents/Projects/OBD2/build-OBD2-Reader-Desktop-Debug/CMakeFiles/OBD2-Reader_autogen.dir
